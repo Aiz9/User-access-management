@@ -19,7 +19,7 @@ session_start();
     <header>
         <nav>
             <div class="logo">
-                <img src="assets/images/logo.png" alt="logo" width="80"/>
+                <img src="assets/images/logo.png" alt="logo" width="90"/>
             </div>
             <div class="menu">
                 <ul>

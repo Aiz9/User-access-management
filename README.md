@@ -47,7 +47,7 @@ Resolving deltas: 100% (1193/1193), done.
 ## Main Menu
 
 
-![main_win](/C:\\xampp\htdocs\final_assignment\Readme\\Mainpage.png)
+![main_win](Readme\\Mainpage.png)
 
 
 This is the main page of the website. There are two options to choose from. You can:
@@ -63,7 +63,7 @@ The ID password for Admin user is:
 ## Admin Dashboard
 
 
-![Admin_Dashboard](/C:\\xampp\htdocs\final_assignment\Readme\\Adminlogin.png)
+![Admin_Dashboard](\Readme\\Adminlogin.png)
 
 
 This is the main page for Admin, they can control all the activities in whole website.
@@ -76,7 +76,7 @@ Some admin privileges are:
 
 
 ## User Control Management panel
-![User_control_Managements](/C:\\xampp\htdocs\final_assignment\Readme\\Addusers.png)
+![User_control_Managements](Readme\\Addusers.png)
 ### Adding Users
 You can add a new user through the admin panel without needing to log out.
 ### Promoting Users
@@ -89,7 +89,7 @@ This lets Admins, delete the users account permanently, so if they want to log i
 ## User Access management panel
 
 
-![UAM_panel](/C:\\xampp\htdocs\final_assignment\Readme\\Addadmins.png)
+![UAM_panel](Readme\\Addadmins.png)
 
 
 This is where your saved keywords will appear.
@@ -110,7 +110,7 @@ This lets Admins, delete the users account permanently, so if they want to log i
 ## Posts Management panel
 
 
-![post_panel](/C:\\xampp\htdocs\final_assignment\Readme\\Addposts.png)
+![post_panel](Readme\\Addposts.png)
 
 This is where all the posts posted on the page will be located.
 ### Adding Posts
@@ -124,7 +124,7 @@ This lets Admins, delete the posts permanently,there will be no remains of the p
 ## Question/Comments Panel
 
 
-![Questions/comments](/C:\\xampp\htdocs\final_assignment\Readme\\questions.png)
+![Questions/comments](Readme\\questions.png)
 This is where all the comments and questions asked by users will be posted for admins to reply.
 ### Replying comments
 You can reply the comments and questions directly to people in their mails
@@ -140,18 +140,18 @@ The ID password for Normal user is:
 - Password: SpaceX@1234
 #
 ##Post page
-![User_home](/C:\\xampp\htdocs\final_assignment\Readme\\User-home-page.png)
+![User_home](Readme\\User-home-page.png)
 This page is for seeing all the products of the company and the information they hand out.
 ##About
-![About](/C:\\xampp\htdocs\final_assignment\Readme\\User-about.png)
+![About](Readme\\User-about.png)
 This page is for users to learn the vision of the company and some part of it's history.
 ##Contact
-![Contacts](/C:\\xampp\htdocs\final_assignment\Readme\\User-contact.png)
+![Contacts](Readme\\User-contact.png)
 Contact page is for the users who want to ask questions/comment about any queries and get in touch 
 with different kind of Tesla support.
 
 ##Profile page
-![Profile_updates](/C:\\xampp\htdocs\final_assignment\Readme\\User-profile.png)
+![Profile_updates](Readme\\User-profile.png)
 Profile page is for updating user details.
 
 

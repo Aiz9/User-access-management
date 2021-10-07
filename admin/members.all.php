@@ -9,7 +9,7 @@ $all_members = allMembers($conn);
 
 <div class="main-content">
     <h1 style="text-align:center">All Members</h1>
-    <a href="#" class="btn-table-top">Add Member</a>
+    <a href="addnew.user.php" class="btn-table-top">Add Member</a>
     <div class="data">
         <table>
             <thead>

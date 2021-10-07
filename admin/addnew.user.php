@@ -5,7 +5,7 @@ require '../database/dbconnection.php';
 require '../includes/login.check.admin.php';
 require '../includes/login.admin.php';
 ?>
-<div class="signup-form">
+<div class="New-user-signup-form">
 
 <form action="adduser.inc.php" method="post" class="myForm">
 <h1 class="page-title">Add User page</h1>

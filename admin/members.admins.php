@@ -9,7 +9,7 @@ $all_admins = allAdmins($conn)
 
 <div class="main-content">
     <h1 style="text-align:center">All Admins</h1>
-    <a href="#" class="btn-table-top">Add New Admin</a>
+    <a href="members.admin.add.php" class="btn-table-top">Add New Admin</a>
     <div class="data">
         <table>
             <thead>

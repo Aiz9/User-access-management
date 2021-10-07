@@ -28,7 +28,7 @@ function updateImage($conn, $file)
         if ($fileSize < 1000000) {
             // file size is in bytes i.e, 1MB=1000000 bytes
             $fileNewName = uniqid('image', true) . "." . $actualFileExtension;
-            $fileDestination = '../assets/uploads/' . $fileNewName;
+            $fileDestination = 'assets/uploads/' . $fileNewName;
             $success = move_uploaded_file($fileTmpName, $fileDestination);
             if ($success) {
 
@@ -44,7 +44,7 @@ function updateImage($conn, $file)
                 $result = $stmt1->get_result();
                 $row = $result->fetch_assoc();
                 if ($row['profile_image'] !== null) {
-                    $file_to_delete = '../assets/uploads/' . $row['profile_image'];
+                    $file_to_delete = 'assets/uploads/' . $row['profile_image'];
                     unlink($file_to_delete);
                 }
 

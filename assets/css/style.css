@@ -270,8 +270,9 @@ td {
 }
 
 table {
-  width: 15%;
+  width: 90%;
   margin: 10px auto;
+  background: #ffffffd9
 }
 th,
 td {

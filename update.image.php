@@ -50,7 +50,7 @@ if(isset($_SESSION['userid'])){
                 <?php 
                     if($row['profile_image'] !== null){
                         ?>
-                        <img src="../assets/uploads/<?php echo $row['profile_image'] ?>" width="200">
+                        <img src="assets/uploads/<?php echo $row['profile_image'] ?>" width="200">
                         <?php
                     }
                     else{
@@ -66,3 +66,6 @@ if(isset($_SESSION['userid'])){
     </form>
     
 </div>
+<?php
+include_once('footer.php');
+?>

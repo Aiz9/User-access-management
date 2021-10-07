@@ -53,3 +53,6 @@ if(isset($_SESSION['userid'])){
         </div>
     </div>
 </div>
+<?php
+include_once('footer.php');
+?>

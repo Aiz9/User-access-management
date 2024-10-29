@@ -67,7 +67,6 @@ Some admin privileges are:
 
 
 ## User Control Management panel
-![User_control_Managements](Readme\\Addusers.png)
 ### Adding Users
 You can add a new user through the admin panel without needing to log out.
 ### Promoting Users
@@ -79,8 +78,6 @@ This lets Admins, delete the users account permanently, so if they want to log i
 
 ## User Access management panel
 
-
-![UAM_panel](Readme\\Addadmins.png)
 
 
 This is where your saved keywords will appear.
@@ -101,7 +98,6 @@ This lets Admins, delete the users account permanently, so if they want to log i
 ## Posts Management panel
 
 
-![post_panel](Readme\\Addposts.png)
 
 This is where all the posts posted on the page will be located.
 ### Adding Posts
@@ -115,7 +111,7 @@ This lets Admins, delete the posts permanently,there will be no remains of the p
 ## Question/Comments Panel
 
 
-![Questions/comments](Readme\\questions.png)
+
 This is where all the comments and questions asked by users will be posted for admins to reply.
 ### Replying comments
 You can reply the comments and questions directly to people in their mails

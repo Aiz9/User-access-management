@@ -45,10 +45,6 @@ Resolving deltas: 100% (1193/1193), done.
 
 ## Main Menu
 
-
-![main_win](Readme\\Mainpage.png)
-
-
 This is the main page of the website. There are two options to choose from. You can:
 - Login as an Admin.
 #Admin Login
@@ -60,10 +56,6 @@ The ID password for Admin user is:
 
 
 ## Admin Dashboard
-
-
-![Admin_Dashboard](\Readme\\Adminlogin.png)
-
 
 This is the main page for Admin, they can control all the activities in whole website.
 Some admin privileges are:
@@ -137,22 +129,5 @@ so the comments causing harm to the company or breaking law would be deleted.
 The ID password for Normal user is:
 - Username: Elon
 - Password: SpaceX@1234
-#
-##Post page
-![User_home](Readme\\User-home-page.png)
-This page is for seeing all the products of the company and the information they hand out.
-##About
-![About](Readme\\User-about.png)
-This page is for users to learn the vision of the company and some part of it's history.
-##Contact
-![Contacts](Readme\\User-contact.png)
-Contact page is for the users who want to ask questions/comment about any queries and get in touch 
-with different kind of Tesla support.
-
-##Profile page
-![Profile_updates](Readme\\User-profile.png)
-Profile page is for updating user details.
-
-
 
 
